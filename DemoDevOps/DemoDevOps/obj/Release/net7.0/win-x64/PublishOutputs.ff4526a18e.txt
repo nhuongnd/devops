@@ -1,0 +1,7 @@
+D:\git\devops\DemoDevOps\DemoDevOps\obj\Release\net7.0\win-x64\PubTmp\Out\DemoDevOps.exe
+D:\git\devops\DemoDevOps\DemoDevOps\obj\Release\net7.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\git\devops\DemoDevOps\DemoDevOps\obj\Release\net7.0\win-x64\PubTmp\Out\appsettings.json
+D:\git\devops\DemoDevOps\DemoDevOps\obj\Release\net7.0\win-x64\PubTmp\Out\DemoDevOps.dll
+D:\git\devops\DemoDevOps\DemoDevOps\obj\Release\net7.0\win-x64\PubTmp\Out\DemoDevOps.deps.json
+D:\git\devops\DemoDevOps\DemoDevOps\obj\Release\net7.0\win-x64\PubTmp\Out\DemoDevOps.runtimeconfig.json
+D:\git\devops\DemoDevOps\DemoDevOps\obj\Release\net7.0\win-x64\PubTmp\Out\DemoDevOps.pdb
